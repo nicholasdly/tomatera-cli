@@ -5,7 +5,7 @@ A simple pomodoro timer for your terminal with system notifications, powered by 
 ## Installation
 
 ```bash
-
+deno install --unstable --allow-all --name tomatera https://deno.land/x/tomatera_cli@v0.0.4/mod.ts
 ```
 
 ## Usage
